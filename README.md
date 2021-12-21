@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DELAMOTTE Pierrick
 - 👀 I’m interested in everything but more specially in SPACE, Electronics and Web and Software developpement
-- 🌱 I’m currently learning PHP, Symfony, Python and server administraton
+- 🌱 I’m currently learning PHP, Symfony, Python and server administration
 - 💞️ I’m looking to collaborate on commercial project
 - 📫 You can reach me to this email address : delamotte.dev.concept@gmail.com
 
